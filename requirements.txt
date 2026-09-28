@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+torch
+
+scapy
+shap
+
+streamlit
+plotly
+
+pyyaml
+pytest

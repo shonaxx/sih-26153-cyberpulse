@@ -1,0 +1,13 @@
+Model,Horizon,Precision,Recall,F1,FPR,Onset recall
+Persistence,t+1,0.936,0.936,0.936,0.029,0.0
+Persistence,t+2,0.927,0.927,0.927,0.033,0.0
+Persistence,t+3,0.924,0.924,0.924,0.035,0.0
+Persistence,t+4,0.921,0.921,0.921,0.036,0.0
+Logistic regression,t+1,0.959,0.93,0.944,0.018,0.002
+Logistic regression,t+2,0.957,0.926,0.941,0.019,0.003
+Logistic regression,t+3,0.958,0.923,0.94,0.018,0.004
+Logistic regression,t+4,0.957,0.923,0.94,0.019,0.005
+GRU,t+1,0.925,0.939,0.932,0.035,0.002
+GRU,t+2,0.923,0.929,0.926,0.036,0.003
+GRU,t+3,0.923,0.926,0.925,0.035,0.005
+GRU,t+4,0.924,0.925,0.924,0.035,0.005

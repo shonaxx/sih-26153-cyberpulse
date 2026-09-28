@@ -1,0 +1,4 @@
+window_size_sec: 10
+step_size_sec: 5
+sequence_length: 6
+forecast_horizons: 4

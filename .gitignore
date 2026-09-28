@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+data/raw_pcaps/*.pcap
+data/processed_csv/*.csv
+data/scalers/*.pkl
+models/saved_weights/*.pt
+"data/raw_pcaps/" 
+data/raw_pcaps/ 
